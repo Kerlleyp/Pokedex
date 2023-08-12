@@ -1,7 +1,7 @@
 # Pokedex
 
 <p align="center">
-  <img src="public/Pokedex.gi">
+  <img src="public/Pokedex.gif">
 </p>
 
 ## Table of contents
